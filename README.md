@@ -13,7 +13,7 @@ Deadline: 23.10.2022
  - 1 Arduino UNO board
  - resistors and wires (as needed)
 <br>
-#### Task Requirements:
+### Task Requirements:
 - Control each color of the RGB LED (**R**ed, **G**reen and **B**lue)
 <br>
 
