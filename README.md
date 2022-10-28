@@ -77,8 +77,8 @@ Deadline: 23.10.2022
  - Firstly, I connected one potentiometer to a one-color LED to understand how it works. 
  - Then I connected 3 potentiometeres and tested each one of them using the Serial.Write() function so that I can see that each potentiometer works properly.
  - I removed the one-color LED and placed the RGB one and I used 1 resistor for each color of the RGB LED. 
+ - I placed a non-connected one-color LED next to each of the potentiometer to indicate the color the potentiometer refers to.
  - Finally, I successfully read the input from the potentiometers and redirected it to the LED.
-
 <br>
 
 ### Resources:
