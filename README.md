@@ -15,7 +15,7 @@ Deadline: 23.10.2022
 <br>
 
 ### Task Requirements:
- - Control each color of the RGB LED (**R**ed, **G**reen and **B**lue) with a different potentiometer
+ - Control each color of the RGB LED (**R**ed, **G**reen and **B**lue) with a different potentiometer.
 <br>
 
 ### Code:
