@@ -7,13 +7,15 @@ Done: 21.10.2022<br>
 Deadline: 23.10.2022
 
 ## Homework 1
-Hardware Components:
+### Hardware Components:
  - 1 RBG LED
  - 3 Potentiometers
  - 1 Arduino UNO board
  - resistors and wires (as needed)
-Task Requirements:
-- 
+<br>
+#### Task Requirements:
+- Control each color of the RGB LED (**R**ed, **G**reen and **B**lue)
+<br>
 
 Photo: ![WhatsApp Image 2022-10-26 at 19 17 51](https://user-images.githubusercontent.com/63961737/198081883-00c5223a-eb86-419a-b6d3-baaec2181342.jpeg)
 Link video: https://www.youtube.com/shorts/FyiD2DNzpuM
