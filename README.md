@@ -12,9 +12,12 @@ Deadline: 23.10.2022
  - 3 Potentiometers
  - 1 Arduino UNO board
  - resistors and wires (as needed)
+
 <br>
+
 ### Task Requirements:
-- Control each color of the RGB LED (**R**ed, **G**reen and **B**lue)
+ - Control each color of the RGB LED (**R**ed, **G**reen and **B**lue)
+
 <br>
 
 Photo: ![WhatsApp Image 2022-10-26 at 19 17 51](https://user-images.githubusercontent.com/63961737/198081883-00c5223a-eb86-419a-b6d3-baaec2181342.jpeg)
