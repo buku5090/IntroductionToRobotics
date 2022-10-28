@@ -71,6 +71,22 @@ Deadline: 23.10.2022
     analogWrite(ledPinBlue, potRotValueBlue);
   }
 ```
+<br>
+
+### Implementation:
+ - Firstly, I connected one potentiometer to a one-color LED to understand how it works. 
+ - Then I connected 3 potentiometeres and tested each one of them using the Serial.Write() function so that I can see that each potentiometer works properly.
+ - I removed the one-color LED and placed the RGB one and I used 1 resistor for each color of the RGB LED. 
+ - Finally, I successfully read the input from the potentiometers and redirected it to the LED.
+
+<br>
+### Resources:
+ - Mostly, I used the data provided in the laboratories.
+<br>
+
+### Notes:
+ - It was a lot of fun horsing around with Arduino.
+<br>
 
 Photo: ![WhatsApp Image 2022-10-26 at 19 17 51](https://user-images.githubusercontent.com/63961737/198081883-00c5223a-eb86-419a-b6d3-baaec2181342.jpeg)
 Link video: https://www.youtube.com/shorts/FyiD2DNzpuM
