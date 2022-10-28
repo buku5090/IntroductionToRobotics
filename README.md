@@ -80,6 +80,7 @@ Deadline: 23.10.2022
  - Finally, I successfully read the input from the potentiometers and redirected it to the LED.
 
 <br>
+
 ### Resources:
  - Mostly, I used the data provided in the laboratories.
 <br>
