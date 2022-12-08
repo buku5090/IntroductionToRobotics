@@ -15,8 +15,8 @@ Installed Arduino IDE and created this repository.<br><br>
 ### Task Requirements:
  - Building the traffic lights for a crosswalk
 
-## Homework 3 tbd
+## [Homework#3](https://github.com/buku5090/IntroductionToRobotics/tree/main/Homework%233)
 
-## Homework 4 tbd
+## [Homework#4]()
 
 ## Homework 5 tbd
