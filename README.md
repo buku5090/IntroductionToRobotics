@@ -16,6 +16,8 @@ Installed Arduino IDE and created this repository.<br><br>
  - Building the traffic lights for a crosswalk
 
 ## [Homework#3](https://github.com/buku5090/IntroductionToRobotics/tree/main/Homework%233)
+### Task Requirements:
+ - Control the position of the segment and ”draw” on the display using a joystick.
 
 ## [Homework#4]()
 
