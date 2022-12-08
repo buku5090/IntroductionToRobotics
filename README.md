@@ -12,7 +12,7 @@ Installed Arduino IDE and created this repository.<br><br>
 
 ## [Homework#2](https://github.com/buku5090/IntroductionToRobotics/tree/main/Homework%232)
 ### Task Requirements:
- - Building the traffic lights for a crosswalk
+ - Build the traffic lights for a crosswalk
 
 ## [Homework#3](https://github.com/buku5090/IntroductionToRobotics/tree/main/Homework%233)
 ### Task Requirements:
