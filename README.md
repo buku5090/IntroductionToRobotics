@@ -9,7 +9,6 @@ Installed Arduino IDE and created this repository.<br><br>
 
 ### Task Requirements:
  - Control each color of the RGB LED (**R**ed, **G**reen and **B**lue) with a different potentiometer.
-<br>
 
 ## [Homework#2](https://github.com/buku5090/IntroductionToRobotics/tree/main/Homework%232)
 ### Task Requirements:
