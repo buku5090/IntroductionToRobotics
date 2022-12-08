@@ -6,7 +6,7 @@ Installed Arduino IDE and created this repository.<br><br>
 Done: 21.10.2022<br>
 Deadline: 23.10.2022
 
-## Homework 1[](https://www.youtube.com/shorts/FyiD2DNzpuM)
+## Homework 1[To Homework#1](https://www.youtube.com/shorts/FyiD2DNzpuM)
 
 ### Task Requirements:
  - Control each color of the RGB LED (**R**ed, **G**reen and **B**lue) with a different potentiometer.
