@@ -18,6 +18,8 @@ Installed Arduino IDE and created this repository.<br><br>
 ### Task Requirements:
  - Control the position of the segment and ”draw” on the display using a joystick.
 
-## [Homework#4]()
+## [Homework#4](https://github.com/buku5090/IntroductionToRobotics/tree/main/Homework%234)
+### Task Requirements:
+ - Move through the 4 digit 7 segment displays digits, press the button to lock in on the current digit and use the other axis to increment or decrement the number. Keep the button pressed to reset all the digit values and the current position to the first digit in the first state.
 
 ## Homework 5 tbd
