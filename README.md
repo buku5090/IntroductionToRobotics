@@ -11,15 +11,9 @@ Installed Arduino IDE and created this repository.<br><br>
  - Control each color of the RGB LED (**R**ed, **G**reen and **B**lue) with a different potentiometer.
 <br>
 
-## Homework 2
-### Hardware Components:
-5 LEDs, 1 button, 1 buzzer, resistors and wires (per logic)
-
-Photo: ![WhatsApp Image 2022-11-06 at 21 27 41](https://user-images.githubusercontent.com/63961737/200191603-5bf25d3a-510b-422c-b837-cdfc034e5f0d.jpeg)
-
-Link video: https://youtube.com/shorts/YoVPiFFsUM8?feature=share
-
-<br><br>
+## [Homework#2](https://github.com/buku5090/IntroductionToRobotics/tree/main/Homework%232)
+### Task Requirements:
+ - Building the traffic lights for a crosswalk
 
 ## Homework 3 tbd
 
