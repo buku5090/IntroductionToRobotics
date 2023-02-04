@@ -1,5 +1,3 @@
-
-
 ## Homework 1
 ### Hardware Components:
  - 1 RBG LED
