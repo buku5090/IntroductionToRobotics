@@ -22,4 +22,6 @@ Installed Arduino IDE and created this repository.<br><br>
 ### Task Requirements:
  - Move through the 4 digit 7 segment displays digits, press the button to lock in on the current digit and use the other axis to increment or decrement the number. Keep the button pressed to reset all the digit values and the current position to the first digit in the first state.
 
-## Homework 5 tbd
+## [Homework#5](https://github.com/buku5090/IntroductionToRobotics/tree/main/Homework%235)
+### Task Requirements:
+ - Create a simple menu on a LCD Display.
