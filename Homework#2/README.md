@@ -1,5 +1,3 @@
-
-
 ## Homework 2
 ### Hardware Components:
  - 5 LEDS
