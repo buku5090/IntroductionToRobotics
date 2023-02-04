@@ -7,7 +7,7 @@
 ### Task Requirements:
  - Use the joystick to naturally change the position of the turned on segment.
  - The 7-segment display will have 2 stages:
-  - hi
+     - hi
 
 ### Implementation:
  - Firstly, I connected one potentiometer to a one-color LED to understand how it works. 
