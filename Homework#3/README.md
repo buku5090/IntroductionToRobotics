@@ -1,12 +1,13 @@
-## Homework 1
+## Homework 3
 ### Hardware Components:
- - 1 RBG LED
- - 3 Potentiometers
- - 1 Arduino UNO board
+ - 1 7-segment display
+ - 1 joystick
  - resistors and wires (as needed)
 
 ### Task Requirements:
- - Control each color of the RGB LED (**R**ed, **G**reen and **B**lue) with a different potentiometer.
+ - Use the joystick to naturally change the position of the turned on segment.
+ - The 7-segment display will have 2 stages:
+  - hi
 
 ### Implementation:
  - Firstly, I connected one potentiometer to a one-color LED to understand how it works. 
