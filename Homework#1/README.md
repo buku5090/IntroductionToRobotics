@@ -26,9 +26,9 @@
 
 ### Notes:
  - It was a lot of fun horsing around with Arduino.
-<br>
 
-Photo: ![WhatsApp Image 2022-10-26 at 19 17 51](https://user-images.githubusercontent.com/63961737/198081883-00c5223a-eb86-419a-b6d3-baaec2181342.jpeg)
+### Setup:
+<img src="https://user-images.githubusercontent.com/63961737/198081883-00c5223a-eb86-419a-b6d3-baaec2181342.jpeg" width="200">
 Link video: https://www.youtube.com/shorts/FyiD2DNzpuM
 
 <br><br>
